@@ -1,0 +1,7 @@
+/.vscode
+/geckodriver.log
+/venv
+/__pycache__
+log.txt
+data.csv
+/.mypy_cache
