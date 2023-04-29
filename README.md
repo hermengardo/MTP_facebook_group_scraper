@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/hermengardo/mtp_facebook_group_scraper/badge)](https://www.codefactor.io/repository/github/hermengardo/mtp_facebook_group_scraper)
+
 # Introdução
 - Raspador para publicações em grupos do facebook.
 - Desenvolvido para a matéria de Métodos e Técnicas de Pesquisa II (USP/2022).
