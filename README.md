@@ -1,5 +1,5 @@
-
-[![CodeFactor](https://www.codefactor.io/repository/github/hermengardo/mtp_facebook_group_scraper/badge)](https://www.codefactor.io/repository/github/hermengardo/mtp_facebook_group_scraper) ![](https://img.shields.io/maintenance/no/2022)
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)<br>
+[![CodeFactor](https://www.codefactor.io/repository/github/hermengardo/mtp_facebook_group_scraper/badge)](https://www.codefactor.io/repository/github/hermengardo/mtp_facebook_group_scraper)
 
 # Introdução
 - Raspador para publicações em grupos do facebook.
